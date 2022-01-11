@@ -1,0 +1,47 @@
+.body {
+  display: inline-flex;
+  justify-content:flex-start;
+  flex-flow: row wrap;
+  align-items: flex-start;
+  text-align: center;
+  background-color: whitesmoke;
+}
+
+.currentSales {
+  color: gray;
+  font-size: 30px;
+  margin: 5px;
+}
+
+span {
+  font-size: 20px;
+}
+
+.header {
+  background-color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  display: flex;
+  width: 1250px;
+  border: 0.5px solid darkgray;
+
+  
+}
+
+.navBar {
+  background-color:lightgray;
+  font-size: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: darkgray;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 150px;
+  height: 50px;
+  margin: 20px;
+
+}
+
+#selected {
+  background-color: rgb(85, 136, 233);
+  color: white;
+}

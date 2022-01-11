@@ -1,0 +1,47 @@
+.cards {
+    border: 1pt solid rgb(85, 136, 233);
+    background-color: white;
+    width: 250px;
+    padding: 10px;
+}
+
+.name {
+    color: black;
+    padding-bottom: 0px;
+}
+
+.handle {
+    color: gray;
+    font-size: 15px;
+    padding-bottom: 10px;
+    border-bottom: 0.5px solid gray;
+
+}
+
+.initials {
+    color: gray;
+    background-color: rgb(185, 41, 34);
+    color: white;
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 75px;
+
+}
+
+.trend {
+    color: black;
+}
+
+.increasing {
+    color: gray;
+}
+
+.numOfSales {
+    color: gray;
+}
+
+
